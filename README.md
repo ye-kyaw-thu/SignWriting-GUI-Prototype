@@ -33,4 +33,7 @@ Sayar Kyaw Zin Win (School for the Deaf, Mandalay)
 Sayarma Daw Yadana Aung (School for the Deaf, Mandalay, Myanmar)  
 Developer of SignWriting: [Valerie Sutton](https://en.wikipedia.org/wiki/Valerie_Sutton)   
 
+## References
 
+- SignWriting: https://www.signwriting.org/  
+- Wiki of SignWriting: https://en.wikipedia.org/wiki/SignWriting  
