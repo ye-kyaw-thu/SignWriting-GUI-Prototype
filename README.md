@@ -19,16 +19,17 @@ Click the above picture for playing the video of demo usage of the SignWriting-G
 Ms. Hlaing Myat Nwe (Main developer)  
 Ms. Hnin Wai Wai Hlaing (UTYCC, Pyin Oo Lwin, Myanmar)  
 Ms. Swe Zin Moe (UTYCC, Pyin Oo Lwin, Myanmar)  
-Dr. Ye Kyaw Thu (LST, NECTEC, Thailand)  
+[Dr. Ye Kyaw Thu (LST, NECTEC, Thailand)](https://sites.google.com/site/yekyawthunlp/)  
 Dr. Hnin Aye Thant (UTYCC, Pyin Oo Lwin, Myanmar)  
 
 ## Acknowledgements
 
-We would like to thank principals, teachers, Sign Language trainers and students from School for the Deaf, Mandalay, Mary Chapman School for the Deaf (Yangon),
+We would like to thank principals, teachers, sign language trainers and students from School for the Deaf, Mandalay, Mary Chapman School for the Deaf (Yangon),
 School for the Deaf, Tarmwe (Yangon) and Myanmar Deaf Society and Literacy and Language Development for the Deaf (Yangon) and all participants for their kind
 contributions to our research input experiments.  
 
 Special thanks to:    
+[Valerie Sutton](https://en.wikipedia.org/wiki/Valerie_Sutton)  
 Sayar Kyaw Zin Win (School for the Deaf, Mandalay)  
 Sayarma Daw Yadana Aung (School for the Deaf, Mandalay, Myanmar)  
 
