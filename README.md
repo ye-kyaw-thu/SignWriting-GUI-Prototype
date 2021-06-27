@@ -10,4 +10,4 @@ MIT License
 
 ## Demo Usage Video
 
- [![video-4-1st-time-users](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg-videoscreen.png)](https://youtu.be/Pd2NKuZOKcA)
+ [![video-4-1st-time-users](https://github.com/ye-kyaw-thu/SignWriting-GUI-Prototype/blob/main/demo-video/MSW-GUI-ver0.13-Demo-Video.png)](https://youtu.be/Pd2NKuZOKcA)
