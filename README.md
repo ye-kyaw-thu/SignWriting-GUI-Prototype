@@ -29,8 +29,8 @@ School for the Deaf, Tarmwe (Yangon) and Myanmar Deaf Society and Literacy and L
 contributions to our research input experiments.  
 
 Special thanks to:    
-[Valerie Sutton](https://en.wikipedia.org/wiki/Valerie_Sutton)  
 Sayar Kyaw Zin Win (School for the Deaf, Mandalay)  
 Sayarma Daw Yadana Aung (School for the Deaf, Mandalay, Myanmar)  
+Developer of SignWriting: [Valerie Sutton](https://en.wikipedia.org/wiki/Valerie_Sutton)   
 
 
