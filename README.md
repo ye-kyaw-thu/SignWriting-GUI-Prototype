@@ -12,7 +12,7 @@ MIT License
 
  [![video-4-1st-time-users](https://github.com/ye-kyaw-thu/SignWriting-GUI-Prototype/blob/main/demo-video/MSW-GUI-Prototype-ver0.13-demo.png)](https://youtu.be/Pd2NKuZOKcA)
 
-Click the above picture for playing the demo usage video of SignWriting-GUI-Prototype version 0.13.  
+Click the above picture for playing the video of demo usage of the SignWriting-GUI-Prototype version 0.13.  
 
 ## Contributors
 
