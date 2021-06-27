@@ -16,9 +16,9 @@ Click the above picture for playing the demo usage video of SignWriting-GUI-Prot
 
 ## Contributors
 
-Ms. Hlaing Myat Nwe (Main developer)
-Dr. Ye Kyaw Thu
-Dr. Hnin Aye Thant
+Ms. Hlaing Myat Nwe (Main developer)  
+Dr. Ye Kyaw Thu (LST, NECTEC, Thailand)  
+Dr. Hnin Aye Thant (UTYCC, Pyin Oo Lwin, Myanmar)  
 
 ## Acknowledgements
 
